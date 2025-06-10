@@ -1,2 +1,2 @@
-# Temperature-Data-Logger
+# Pathshala
 5 channel k-thermocouple temperature logger
