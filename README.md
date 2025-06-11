@@ -1,2 +1,2 @@
-# Pathshala
+# mcgintesnow
 5 channel k-thermocouple temperature logger
